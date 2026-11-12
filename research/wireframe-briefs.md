@@ -185,3 +185,4 @@
 * **Variants Setup:**
   - Add Variant button (`Color`, `Size`, `Material`).
 * **Bottom Action:** `Save as Draft` (Secondary) + `Publish Product` (Primary).
+

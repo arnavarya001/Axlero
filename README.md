@@ -79,7 +79,7 @@ Our Figma project adheres to the mandated 7-page standard structure:
 6. `06_Prototype` - Interactive clickable screens linked with Smart Animate.
 7. `07_Developer Handoff` - Spacing redlines, design specs, interaction behaviors, and export assets.
 
-🔗 **Figma Project File:** [Figma Workspace Link](https://figma.com) *(Update with team file link)*
+🔗 **Figma Project File (ShopVerse):** [ShopVerse - E-commerce (Figma Link)](https://www.figma.com/design/pWC4bNgy8WBkMwjUTNR44P/ShopVerse-E-commerce?node-id=0-1&t=tJUJbAB72x5w3Vlf-1) *(Access set to 'Can View')*
 
 ---
 

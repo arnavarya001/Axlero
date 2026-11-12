@@ -6,6 +6,7 @@
 **Submission Milestone:** Month 1 Mid Review Deliverable (Mandatory)  
 **Lead Contact:** Arnav Arya (Team Lead) — `arnavarya2004@gmail.com`  
 **GitHub Repository:** https://github.com/arnavarya001/Axlero.git  
+**Figma Workspace (ShopVerse):** https://www.figma.com/design/pWC4bNgy8WBkMwjUTNR44P/ShopVerse-E-commerce?node-id=0-1&t=tJUJbAB72x5w3Vlf-1  
 
 ---
 
@@ -181,3 +182,4 @@ By confirming below, each team member acknowledges their assigned deliverables, 
 
 ---
 *Submitted on behalf of Axlero UI/UX Group 1 by Arnav Arya (Team Lead).*
+
