@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="700" viewBox="0 0 1900 700" xmlns:c2pa="http://c2pa.org/manifest">
+<rect width="1900" height="700" fill="#FFFFFF"/>
+<text x="40" y="40" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1F2A7C">Information Architecture - Marketplace App</text>
+<rect x="953" y="60" width="260" height="56" rx="10" fill="#1F2A7C" stroke="#1F2A7C" stroke-width="2"/>
+<text x="1083.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">Marketplace App</text>
+<rect x="40" y="300" width="150" height="64" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="115.0" y="338.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Home</text>
+<rect x="210" y="300" width="150" height="64" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="285.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Search /</text>
+<text x="285.0" y="348.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Category</text>
+<rect x="380" y="300" width="150" height="64" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="455.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Product</text>
+<text x="455.0" y="348.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Detail (PDP)</text>
+<rect x="550" y="300" width="150" height="64" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="625.0" y="338.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Cart</text>
+<rect x="720" y="300" width="150" height="64" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="795.0" y="338.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Checkout</text>
+<rect x="890" y="300" width="150" height="64" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="965.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Order</text>
+<text x="965.0" y="348.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Confirmed</text>
+<rect x="1060" y="300" width="150" height="64" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="1135.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Profile &amp;</text>
+<text x="1135.0" y="348.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1F2A7C" text-anchor="middle">Wishlist</text>
+<rect x="1260" y="300" width="130" height="64" rx="10" fill="#E6F5EA" stroke="#2E8B57" stroke-width="2"/>
+<text x="1325.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1E5E3B" text-anchor="middle">Sales</text>
+<text x="1325.0" y="348.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1E5E3B" text-anchor="middle">Analytics</text>
+<rect x="1404" y="300" width="130" height="64" rx="10" fill="#E6F5EA" stroke="#2E8B57" stroke-width="2"/>
+<text x="1469.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1E5E3B" text-anchor="middle">Inventory /</text>
+<text x="1469.0" y="348.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1E5E3B" text-anchor="middle">Products</text>
+<rect x="1548" y="300" width="130" height="64" rx="10" fill="#E6F5EA" stroke="#2E8B57" stroke-width="2"/>
+<text x="1613.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1E5E3B" text-anchor="middle">Add Product</text>
+<text x="1613.0" y="348.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1E5E3B" text-anchor="middle">Form</text>
+<rect x="1692" y="300" width="130" height="64" rx="10" fill="#E6F5EA" stroke="#2E8B57" stroke-width="2"/>
+<text x="1757.0" y="338.0" font-family="Arial, Helvetica, sans-serif" font-size="17"  fill="#1E5E3B" text-anchor="middle">Orders</text>
+<rect x="505.0" y="190" width="240" height="56" rx="10" fill="#4455C8" stroke="#1F2A7C" stroke-width="2"/>
+<text x="625.0" y="224.0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">Consumer App</text>
+<rect x="1421.0" y="190" width="240" height="56" rx="10" fill="#2E8B57" stroke="#2E8B57" stroke-width="2"/>
+<text x="1541.0" y="224.0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">Vendor Dashboard</text>
+<line x1="1083.0" y1="116" x2="1083.0" y2="150" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="625.0" y1="150" x2="1541.0" y2="150" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="625.0" y1="150" x2="625.0" y2="190" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="1541.0" y1="150" x2="1541.0" y2="190" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="625.0" y1="246" x2="625.0" y2="277" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="115.0" y1="277" x2="1135.0" y2="277" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="115.0" y1="277" x2="115.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="285.0" y1="277" x2="285.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="455.0" y1="277" x2="455.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="625.0" y1="277" x2="625.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="795.0" y1="277" x2="795.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="965.0" y1="277" x2="965.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="1135.0" y1="277" x2="1135.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="1541.0" y1="246" x2="1541.0" y2="277" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="1325.0" y1="277" x2="1757.0" y2="277" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="1325.0" y1="277" x2="1325.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="1469.0" y1="277" x2="1469.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="1613.0" y1="277" x2="1613.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<line x1="1757.0" y1="277" x2="1757.0" y2="300" stroke="#1F2A7C" stroke-width="2"/>
+<text x="40" y="430" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1F2A7C">Core consumer user flow (wireframe order)</text>
+<rect x="40" y="480" width="200" height="80" rx="10" fill="#1F2A7C" stroke="#1F2A7C" stroke-width="2"/>
+<text x="140.0" y="516.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">Home</text>
+<text x="140.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">Page</text>
+<line x1="240" y1="520.0" x2="272" y2="520.0" stroke="#1F2A7C" stroke-width="2"/>
+<polygon points="280,520.0 268,513.0 268,527.0" fill="#1F2A7C"/>
+<rect x="280" y="480" width="200" height="80" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="380.0" y="516.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1F2A7C" text-anchor="middle">Category</text>
+<text x="380.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1F2A7C" text-anchor="middle">Search</text>
+<line x1="480" y1="520.0" x2="512" y2="520.0" stroke="#1F2A7C" stroke-width="2"/>
+<polygon points="520,520.0 508,513.0 508,527.0" fill="#1F2A7C"/>
+<rect x="520" y="480" width="200" height="80" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="620.0" y="516.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1F2A7C" text-anchor="middle">Product Detail</text>
+<text x="620.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1F2A7C" text-anchor="middle">Page (PDP)</text>
+<line x1="720" y1="520.0" x2="752" y2="520.0" stroke="#1F2A7C" stroke-width="2"/>
+<polygon points="760,520.0 748,513.0 748,527.0" fill="#1F2A7C"/>
+<rect x="760" y="480" width="200" height="80" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="860.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1F2A7C" text-anchor="middle">Cart</text>
+<line x1="960" y1="520.0" x2="992" y2="520.0" stroke="#1F2A7C" stroke-width="2"/>
+<polygon points="1000,520.0 988,513.0 988,527.0" fill="#1F2A7C"/>
+<rect x="1000" y="480" width="200" height="80" rx="10" fill="#EEF1FB" stroke="#1F2A7C" stroke-width="2"/>
+<text x="1100.0" y="516.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1F2A7C" text-anchor="middle">Checkout</text>
+<text x="1100.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1F2A7C" text-anchor="middle">(address + payment)</text>
+<line x1="1200" y1="520.0" x2="1232" y2="520.0" stroke="#1F2A7C" stroke-width="2"/>
+<polygon points="1240,520.0 1228,513.0 1228,527.0" fill="#1F2A7C"/>
+<rect x="1240" y="480" width="200" height="80" rx="10" fill="#1F2A7C" stroke="#1F2A7C" stroke-width="2"/>
+<text x="1340.0" y="516.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">Order</text>
+<text x="1340.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">Confirmed</text>
+<path d="M760 585 L760 600 L1440 600 L1440 585" fill="none" stroke="#C26A10" stroke-width="3"/>
+<text x="1100.0" y="630" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#C26A10" text-anchor="middle">Checkout goal: maximum 3 screens from Add to Cart to Order Confirmed</text>
+<text x="40" y="650" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#555555">Legend: navy = start/end of flow, light blue = screen, green = vendor side. Edit freely in Figma.</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiMjQ4NWEwMS00YWMzLTRjYWYtOWJmZS1kZjNhYmQ1MjI4N2UAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaODN4fkfXYPzaz418zHvaJUAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2Y2Y3ODVmMS1lYzYzLTQ2MTItYjkzZS02OWY0YzkwM2MxNDlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoxS/BK9dIT0fhbwOjrdGtVwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggb50YEDZJurCIaACqdnxekcMC2tazIyGh/P547HHplBukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGhBDQLyvck/79P4euKxFToAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIKTZqyoS0FF5VfhhhTI5l1BZytZ6b07wV30fmTkLLT2eZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSeCZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmIyNDg1YTAxLTRhYzMtNGNhZi05YmZlLWRmM2FiZDUyMjg3ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjJmYjJkMjk4LTM4MjctNGFmNS05ZmMwLTZkOGY2OTE2Y2Y0M3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBvnRgQNkm6sIhoAKp2fF6RwwLa1rMjIaH8/njscemUG6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggVL9JvMlduDq6V/p18hizhXzzGIJyuICHywcALcXIN/6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggneQqtkRzipZnxgZA5Do4cejaO053ItsGMAW5ByqRyT50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIn2tsAIRrJr8PdeXEh77rKrDC3Ag+a09FIq5Cy5FNgH8JAwSJQIHrelbVNf3F6MjaOfVR7pru5NWIdW/U0eId4=</c2pa:manifest></metadata></svg>
