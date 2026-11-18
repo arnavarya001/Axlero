@@ -1,6 +1,6 @@
 # Axlero UI/UX Design Internship - Group 1
 
-Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1)**. This repository hosts UX research documentation, wireframe layout briefs, exported design tokens, SVG icon assets, and tracked Figma Named Versions.
+Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1)**. This repository hosts UX research documentation, wireframe layout briefs, exported design tokens (JSON/CSS), SVG icon assets, and tracked Figma Named Versions for **Project 1: ShopVerse (Multi-Vendor Marketplace App)**.
 
 ---
 
@@ -8,27 +8,41 @@ Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1
 
 | Member | Role | GitHub Branch | Domain Focus |
 | :--- | :--- | :--- | :--- |
-| **Arnav Arya** | **Team Lead** | `arnav-lead` | Checkout flow, Vendor Dashboard, Coordination & Merges |
+| **Arnav Arya** | **Team Lead** | `arnav-lead` | Checkout flow (3 screens), Vendor Dashboard, Coordination & Merges |
 | **Sudheer** | Team Member | `sudheer-research` | Personas, Shopper Journey, Product Card, Color Tokens |
 | **Shashank Rao** | Team Member | `shashank-ia` | Information Architecture, User Flows, Typography, Iconography |
-| **Sajjad** | Team Member | `sajjad-wireframes` | Home Page Wireframe, Competitor Analysis, Button System |
+| **Sajjad Dhuka** | Team Member | `sajjad-wireframes` | Home Page Wireframe, Competitor Analysis, Button System, PDP states |
 | **Mukuture Kandji** | Team Member | `mukuture-wireframes` | PDP Wireframe, Input Components, Prototype Micro-interactions |
 
 ---
 
-## 📑 Key Project Documents
-- 📄 **[Work Distribution Document (Markdown)](./work-distribution-group-1.md)** — Comprehensive task breakdown, week-by-week ownership, and compliance guidelines.
-- 📥 **[Work Distribution Document (PDF Download)](./Work_Distribution_Document_Group_1.pdf)** — Presentation-ready PDF for mentor submission.
-- 📐 **[Wireframe Layout Briefs](./research/wireframe-briefs.md)** — Detailed screen-by-screen wireframe specifications for Sajjad, Mukuture, and Arnav.
-- 🕒 **[Daily Commit Log](./daily-log.md)** — Day-by-day record of member commits.
+## 📑 Key Project Documents & Deliverables
+- 📄 **[Work Distribution Document (Markdown)](./work-distribution-group-1.md)** — Comprehensive task breakdown, week-by-week ownership, and review compliance guidelines.
+- 📥 **[Work Distribution Document (PDF Download)](./Work_Distribution_Document_Group_1.pdf)** — Official submission-ready PDF for mentor review.
+- 🕒 **[Daily Commit Log](./daily-log.md)** — Day-by-day record of member commits and 10-day Mid Review audit.
+- 📐 **[Wireframe Layout Briefs](./research/wireframe-briefs.md)** — Detailed screen-by-screen specifications for wireframe layouts.
+- 🎨 **[Design Tokens (JSON)](./design-tokens/tokens.json)** & **[(CSS)](./design-tokens/tokens.css)** — Exported 8pt spacing, color palettes, and component tokens.
+- 🏷️ **[Figma Version History](./figma-versions/versions.md)** — Log of all Figma Named Versions and checkpoints.
+
+---
+
+## 🎨 Official Figma Workspaces
+
+In accordance with Axlero submission guidelines, all final designs will be audited from the **Master Team File**:
+
+| File Role | Figma File Name | Link |
+|:---|:---|:---|
+| **⭐ Master Team File** | **ShopVerse - E-commerce** | [Open ShopVerse on Figma](https://www.figma.com/design/pWC4bNgy8WBkMwjUTNR44P/ShopVerse-E-commerce?node-id=71-74&t=0plpW883l0ZShwDn-1) *(Primary Evaluation File)* |
+| **Lead Scaffold File** | **Axlero - P1 Marketplace** | [Open Axlero P1 on Figma](https://www.figma.com/design/heSsWnpBLEQYwlNRyqAW5t/Axlero---P1-Marketplace?node-id=1-3&t=DzAsycyWk2ZoRiJE-1) |
+| **Lead Scratch File** | **ShopVerse Explorations** | [Open Explorations on Figma](https://www.figma.com/design/mzxRxVZF9eTfuu8vupSgu7/Untitled?node-id=2-7&t=Lylrka5IOSHXPiPW-1) |
 
 ---
 
 ## 📱 Projects Overview
 
-### Project 1: Multi-Vendor Marketplace App (Mobile)
+### Project 1: Multi-Vendor Marketplace App (Mobile) — "ShopVerse"
 - **Duration:** 8 Nov 2026 – 7 Dec 2026
-- **Focus:** Mobile-first consumer shopping application (Home, Search, PDP, Cart, Checkout) & Vendor Management Dashboard.
+- **Current Milestone (Week 2):** Design System, Component Library (Buttons, Inputs, Cards), and Grayscale Wireframes.
 - **Key UX Requirements:**
   - Maximum 3 screens from "Add to Cart" to "Order Confirmed".
   - 100% Auto-Layout across all frames and components.
@@ -48,13 +62,20 @@ Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1
 Axlero/
 ├── work-distribution-group-1.md            # Master Work Distribution Document
 ├── Work_Distribution_Document_Group_1.pdf  # Mentor Submission PDF
-├── daily-log.md                            # Daily commit proof log
+├── daily-log.md                            # Daily commit verification log
+├── screenshots/                            # Exported SVG component & screen sheets
+│   ├── ShopVerse_Design_System_390x844.svg
+│   ├── ShopVerse_Ready_Components_390x844.svg
+│   ├── ShopVerse_PDP_Added_to_Cart_390x844.svg
+│   └── ShopVerse_PDP_Out_of_Stock_390x844.svg
 ├── research/                               # UX research & wireframe briefs
 │   ├── README.md
 │   ├── persona-template.md                 # User persona standard template
 │   ├── wireframe-briefs.md                 # Screen-by-screen layout specifications
 │   └── .gitkeep
-├── design-tokens/                          # Color variables, typography scale, spacing tokens (JSON/CSS)
+├── design-tokens/                          # Exported design tokens (JSON / CSS)
+│   ├── tokens.json
+│   ├── tokens.css
 │   └── .gitkeep
 ├── icons/                                  # Exported SVG icon assets
 │   └── .gitkeep
@@ -68,36 +89,22 @@ Axlero/
 
 ---
 
-## 🎨 Figma File Architecture
+## 🔄 Daily Commit Rota & Mid Review Audit
 
-Our Figma project adheres to the mandated 7-page standard structure:
-1. `01_Cover` - Project thumbnail, metadata, team roles, and status (WIP/Review/Final). *(Import `01_Cover.svg`)*
-2. `02_Research & Flows` - User personas, customer journey maps, and Information Architecture. *(Import `02_IA_and_User_Flow.svg`)*
-3. `03_Wireframes` - Low-fidelity grayscale structural layouts (no raw imagery).
-4. `04_Design System` - Colors, typography, 8pt spacing grid, and reusable Auto-Layout components.
-5. `05_High-Fidelity UI` - Pixel-perfect polished screens organized by user flow.
-6. `06_Prototype` - Interactive clickable screens linked with Smart Animate.
-7. `07_Developer Handoff` - Spacing redlines, design specs, interaction behaviors, and export assets.
+Axlero requires commits on **at least 10 different days** in the 14 days before Mid Review (23–30 Nov):
 
-🔗 **Figma Project File (ShopVerse):** [ShopVerse - E-commerce (Figma Link)](https://www.figma.com/design/pWC4bNgy8WBkMwjUTNR44P/ShopVerse-E-commerce?node-id=0-1&t=tJUJbAB72x5w3Vlf-1) *(Access set to 'Can View')*
+| Date | Contributor | Branch | Status |
+|:---:|:---|:---|:---:|
+| **11 Nov** | Arnav Arya | `main` | ✅ Logged |
+| **12 Nov** | Arnav Arya | `main` | ✅ Logged |
+| 13 Nov | *Team Gap* | — | ⚠️ Missed |
+| **14 Nov** | Sajjad Dhuka | `sajjad-wireframes` | ✅ Logged |
+| 15 Nov | *Team Gap* | — | ⚠️ Missed |
+| **16 Nov** | Mukuture Kandji | `main` | ✅ Logged |
+| **17 Nov** | Sajjad Dhuka | `sajjad-wireframes` | ✅ Logged |
+| **18 Nov** | Arnav Arya | `main` | ✅ Logged (Today) |
 
----
-
-## 🔄 Daily Commit Rota
-
-To ensure compliance with Axlero's mandatory daily commit rule (no gaps allowed in the 20-day pre-review window):
-
-| Day | Primary Owner | Backup Owner | Cutoff Time |
-| :--- | :--- | :--- | :--- |
-| **Monday** | Sudheer | Arnav Arya | 9:00 PM IST |
-| **Tuesday** | Shashank Rao | Sudheer | 9:00 PM IST |
-| **Wednesday** | Sajjad | Shashank Rao | 9:00 PM IST |
-| **Thursday** | Mukuture Kandji | Sajjad | 9:00 PM IST |
-| **Friday** | Arnav Arya | Mukuture Kandji | 9:00 PM IST |
-| **Saturday** | Sudheer | Shashank Rao | 9:00 PM IST |
-| **Sunday** | Shashank Rao | Arnav Arya | 9:00 PM IST |
-
-> **Lead Check:** Arnav verifies daily commits every night and manages PR merges into `main`.
+> **Strategy Note:** With 5 days logged by 18 Nov, the team must commit consecutively on 19, 20, 21, 22, 23, and 24 Nov. Arnav must schedule the Mid Review call between **24 Nov and 30 Nov** so the team hits 10+ commit days and fully satisfies the evaluation criteria.
 
 ---
 
