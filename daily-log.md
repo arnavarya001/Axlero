@@ -12,17 +12,20 @@ Every single working day must have at least one verified commit to maintain elig
 | 15 Nov 2026 | Sun | *Team Gap* | — | *No commits logged (Gap)* | ⚠️ Missed |
 | **16 Nov 2026** | Mon | **Mukuture Kandji** | `main` | Wireframe explorations & prototype references | ✅ Logged |
 | **17 Nov 2026** | Tue | **Sajjad Dhuka** | `sajjad-wireframes` | ShopVerse Design System, Ready Components UI sheet, PDP Added/Out of Stock states | ✅ Logged |
-| **18 Nov 2026** | Wed | **Arnav Arya** | `main` | Week 2 Design Tokens (`tokens.json`, `tokens.css`), Figma audit & Mid Review sync | ✅ Logged |
+| **18 Nov 2026** | Wed | **Arnav Arya (Lead)** | `arnav-lead` & `main` | Week 2 Tokens (JSON/CSS), 3-Screen Checkout Spec, Vendor Portal Spec, Nav System, WCAG AA Audit | ✅ Logged (Lead Sprint) |
 
 ---
 
 ### Detailed Daily Activity Notes
 
-#### 18 November 2026 - Arnav Arya (Team Lead)
-- Integrated Sajjad's Week 2 Design System assets into `main`.
-- Exported formal design system tokens (`design-tokens/tokens.json` and `design-tokens/tokens.css`) including 8pt spacing system, ShopVerse terracotta color scheme, typography scales, and component specs.
-- Audited commit counts against the 10-day Mid Review rule: Identified that the team currently has 5 commit days and must commit without interruption through 24 Nov to clear compliance.
-- Consolidated Figma links between Lead files and Member collaborative file (`ShopVerse-E-commerce`).
+#### 18 November 2026 - Arnav Arya (Team Lead Sprint)
+- Authored **[checkout-flow-spec.md](research/checkout-flow-spec.md)**: Formalized the core Axlero conversion requirement of max 3 screens from Add to Cart to Order Confirmed (Address ➔ Payment ➔ Confirmation).
+- Authored **[vendor-dashboard-spec.md](research/vendor-dashboard-spec.md)**: Complete mobile-first seller architecture, sales KPIs, revenue analytics, and 4-step "Add Product" workflow.
+- Authored **[navigation-components.md](design-tokens/navigation-components.md)**: 8pt spatial grid scale (`4px` to `48px`), top navigation bar with location pill, and 5-tab fixed bottom bar with active indicator.
+- Authored **[accessibility-audit-wcag.md](research/accessibility-audit-wcag.md)**: Certified WCAG 2.1 AA color contrast compliance matrix and 48px touch target guidelines.
+- Authored **[lead-progress-log.md](lead-progress-log.md)**: Documented Week 1 & Week 2 leadership reviews, branch PR merges, and Mid Review scheduling compliance.
+- Exported formal design system tokens (**[tokens.json](design-tokens/tokens.json)** and **[tokens.css](design-tokens/tokens.css)**).
+- Integrated Sajjad's Week 2 component assets and reviewed Mukuture's prototype references.
 
 #### 17 November 2026 - Sajjad Dhuka
 - Added ShopVerse Design System visual sheet (`390 × 844`).

@@ -20,6 +20,11 @@ Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1
 - 📄 **[Work Distribution Document (Markdown)](./work-distribution-group-1.md)** — Comprehensive task breakdown, week-by-week ownership, and review compliance guidelines.
 - 📥 **[Work Distribution Document (PDF Download)](./Work_Distribution_Document_Group_1.pdf)** — Official submission-ready PDF for mentor review.
 - 🕒 **[Daily Commit Log](./daily-log.md)** — Day-by-day record of member commits and 10-day Mid Review audit.
+- 👑 **[Team Lead Governance Log](./lead-progress-log.md)** — Sprint governance, architecture reviews, and sprint logs by Arnav Arya.
+- 🛒 **[3-Screen Checkout Specification](./research/checkout-flow-spec.md)** — Conversion architecture enforcing the 3-screen checkout mandate.
+- 🏢 **[Vendor Dashboard Architecture](./research/vendor-dashboard-spec.md)** — Seller portal, revenue KPIs, and 4-step Add Product form.
+- 🧭 **[Navigation Components & Spacing](./design-tokens/navigation-components.md)** — Top bar, 5-tab bottom navigation, and 8pt grid tokens.
+- 👁️ **[WCAG 2.1 AA Accessibility Audit](./research/accessibility-audit-wcag.md)** — Certified contrast ratios and touch target compliance.
 - 📐 **[Wireframe Layout Briefs](./research/wireframe-briefs.md)** — Detailed screen-by-screen specifications for wireframe layouts.
 - 🎨 **[Design Tokens (JSON)](./design-tokens/tokens.json)** & **[(CSS)](./design-tokens/tokens.css)** — Exported 8pt spacing, color palettes, and component tokens.
 - 🏷️ **[Figma Version History](./figma-versions/versions.md)** — Log of all Figma Named Versions and checkpoints.
