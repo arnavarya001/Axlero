@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" fill="none">
+  <!-- Background Canvas -->
+  <rect width="390" height="844" rx="40" fill="#F7F4EF"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="390" height="44" fill="#F7F4EF"/>
+  <text x="32" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#222820">9:41</text>
+  <circle cx="340" cy="26" r="4" fill="#222820"/>
+  <rect x="350" y="21" width="18" height="10" rx="3" stroke="#222820" stroke-width="1.5"/>
+
+  <!-- Top App Bar -->
+  <text x="24" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#686E64">DELIVER TO</text>
+  <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#222820">Indiranagar, Bengaluru ▼</text>
+  <rect x="330" y="72" width="36" height="36" rx="18" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <circle cx="348" cy="90" r="7" stroke="#222820" stroke-width="1.5" fill="none"/>
+
+  <!-- Search Bar -->
+  <rect x="24" y="118" width="342" height="48" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <circle cx="48" cy="142" r="6" stroke="#686E64" stroke-width="1.5" fill="none"/>
+  <line x1="53" y1="147" x2="58" y2="152" stroke="#686E64" stroke-width="1.5"/>
+  <text x="68" y="147" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#686E64">Search 10,000+ local artisan goods...</text>
+
+  <!-- Curated Promo Banner -->
+  <rect x="24" y="180" width="342" height="130" rx="16" fill="#A64028"/>
+  <text x="44" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">Direct From Artisans</text>
+  <text x="44" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#F7F4EF">Zero middlemen. 100% verified makers.</text>
+  <rect x="44" y="260" width="100" height="32" rx="8" fill="#FFFFFF"/>
+  <text x="60" y="281" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#A64028">Explore Now</text>
+
+  <!-- Category Grid Title -->
+  <text x="24" y="340" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#222820">Popular Categories</text>
+  <circle cx="56" cy="380" r="24" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="38" y="418" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#222820">Pottery</text>
+  <circle cx="148" cy="380" r="24" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="130" y="418" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#222820">Apparel</text>
+  <circle cx="240" cy="380" r="24" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="224" y="418" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#222820">Decor</text>
+  <circle cx="332" cy="380" r="24" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="312" y="418" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#222820">Organic</text>
+
+  <!-- Featured Products Section -->
+  <text x="24" y="454" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#222820">Trending Near You</text>
+  
+  <!-- Product Card 1 -->
+  <rect x="24" y="470" width="162" height="230" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <rect x="24" y="470" width="162" height="120" rx="12" fill="#EAE5DC"/>
+  <text x="36" y="610" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#A64028">JAIPUR CRAFTS</text>
+  <text x="36" y="628" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#222820">Terracotta Vase</text>
+  <text x="36" y="650" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#222820">$34.00</text>
+  <rect x="144" y="634" width="30" height="30" rx="6" fill="#A64028"/>
+  <text x="154" y="654" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">+</text>
+
+  <!-- Product Card 2 -->
+  <rect x="204" y="470" width="162" height="230" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <rect x="204" y="470" width="162" height="120" rx="12" fill="#EAE5DC"/>
+  <text x="216" y="610" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#A64028">EARTHEN ROOTS</text>
+  <text x="216" y="628" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#222820">Pure Linen Throw</text>
+  <text x="216" y="650" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#222820">$48.50</text>
+  <rect x="324" y="634" width="30" height="30" rx="6" fill="#A64028"/>
+  <text x="334" y="654" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">+</text>
+
+  <!-- Bottom Navigation Bar -->
+  <rect x="0" y="764" width="390" height="80" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="38" y="805" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#A64028">Home</text>
+  <circle cx="52" cy="815" r="2" fill="#A64028"/>
+  <text x="115" y="805" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">Explore</text>
+  <text x="195" y="805" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">Saved</text>
+  <text x="275" y="805" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">Cart (2)</text>
+  <text x="335" y="805" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">Account</text>
+</svg>

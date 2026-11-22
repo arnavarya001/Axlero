@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" fill="none">
+  <!-- Background Canvas -->
+  <rect width="390" height="844" rx="40" fill="#F7F4EF"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="390" height="44" fill="#F7F4EF"/>
+  <text x="32" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#222820">9:41</text>
+  <circle cx="340" cy="26" r="4" fill="#222820"/>
+  <rect x="350" y="21" width="18" height="10" rx="3" stroke="#222820" stroke-width="1.5"/>
+
+  <!-- Top App Bar with Step Indicator -->
+  <rect x="24" y="60" width="32" height="32" rx="8" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <path d="M42 76 L36 76 L40 70" stroke="#222820" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="68" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#222820">Checkout (Screen 1/3)</text>
+
+  <!-- Step Bar -->
+  <rect x="24" y="106" width="105" height="4" rx="2" fill="#A64028"/>
+  <rect x="137" y="106" width="105" height="4" rx="2" fill="#E5E0D8"/>
+  <rect x="250" y="106" width="116" height="4" rx="2" fill="#E5E0D8"/>
+
+  <!-- Section 1: Delivery Address -->
+  <text x="24" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#222820">1. Delivery Address</text>
+  <rect x="24" y="148" width="342" height="88" rx="12" fill="#FFFFFF" stroke="#A64028" stroke-width="1.5"/>
+  <circle cx="46" cy="172" r="8" fill="#A64028"/>
+  <circle cx="46" cy="172" r="3" fill="#FFFFFF"/>
+  <text x="64" y="174" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#222820">Priya Sharma (Home)</text>
+  <text x="64" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#686E64">42, 4th Cross, 12th Main, Indiranagar</text>
+  <text x="64" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#686E64">Bengaluru, KA - 560038 | +91 98765 43210</text>
+  <text x="316" y="174" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#A64028">Edit</text>
+
+  <!-- Section 2: Shipping Method -->
+  <text x="24" y="262" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#222820">2. Shipping Options</text>
+  <rect x="24" y="274" width="342" height="64" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <circle cx="46" cy="306" r="8" fill="#A64028"/>
+  <circle cx="46" cy="306" r="3" fill="#FFFFFF"/>
+  <text x="64" y="302" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#222820">Standard Consolidated Delivery</text>
+  <text x="64" y="320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#2E7D32">Estimated Delivery: Thursday, 27 Nov</text>
+  <text x="320" y="310" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#222820">FREE</text>
+
+  <!-- Section 3: Multi-Vendor Order Summary -->
+  <text x="24" y="364" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#222820">3. Items from 2 Sellers</text>
+  <rect x="24" y="376" width="342" height="150" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <!-- Item 1 -->
+  <rect x="36" y="388" width="48" height="48" rx="8" fill="#EAE5DC"/>
+  <text x="94" y="404" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#222820">Terracotta Ceramic Vase</text>
+  <text x="94" y="420" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#686E64">Seller: Jaipur Crafts | Qty: 1</text>
+  <text x="310" y="412" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#222820">$34.00</text>
+  <line x1="36" y1="448" x2="354" y2="448" stroke="#E5E0D8" stroke-dasharray="3 3"/>
+  <!-- Item 2 -->
+  <rect x="36" y="460" width="48" height="48" rx="8" fill="#EAE5DC"/>
+  <text x="94" y="476" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#222820">Handwoven Linen Throw</text>
+  <text x="94" y="492" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#686E64">Seller: Earthen Roots | Qty: 1</text>
+  <text x="310" y="484" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#222820">$48.50</text>
+
+  <!-- Sticky Bottom Checkout Action -->
+  <rect x="0" y="720" width="390" height="124" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="24" y="750" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">TOTAL PAYABLE</text>
+  <text x="24" y="774" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="800" fill="#222820">$82.50</text>
+  <rect x="180" y="740" width="186" height="48" rx="12" fill="#A64028"/>
+  <text x="216" y="770" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Proceed to Pay →</text>
+</svg>
