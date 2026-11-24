@@ -1,38 +1,35 @@
-# Figma Starter Plan (3-Page Limit) Consolidation Architecture
+# Figma Starter Plan (3-Page Limit) Architecture Guide
 
-> **Context:** Figma Starter (Free) teams are constrained to a strict limit of **3 pages per file**.  
-> To remain 100% compliant with the Axlero 7-deliverable mandate, Group 1 has mapped the 7 required sections across 3 dedicated milestone canvases using Figma Section Containers and visual divider artboards.
+> **Project:** gather. (A marketplace for small makers and meaningful everyday finds)  
+> **Structure:** 3 Consolidated Pages housing all 7 Axlero PRD Deliverables.
 
 ---
 
-## 🗺️ 7-to-3 Deliverable Mapping Table
+## 🗺️ 7-to-3 Deliverable Mapping (Exact Match to Figma File)
 
-| Official Axlero PRD Deliverable | Consolidated Figma Page | Canvas Section Container | Status |
+| Official Axlero PRD Requirement | Figma Page Name | Canvas Frame / Layer Name | Status |
 | :--- | :--- | :--- | :---: |
-| **01_Cover** | **Page 1: 01_Discovery & Wireframes** | `Section: [01_Cover]` | ✅ Complete |
-| **02_Research & Flows** | **Page 1: 01_Discovery & Wireframes** | `Section: [02_Research & Flows]` | ✅ Complete |
-| **03_Wireframes** | **Page 1: 01_Discovery & Wireframes** | `Section: [03_Wireframes]` | ✅ Complete |
-| **04_Design System** | **Page 2: 02_Design System & UI Kit** | `Section: [04_Design System]` | ✅ Complete |
-| **Tokens & Components** | **Page 2: 02_Design System & UI Kit** | `Section: [Ready Components]` | ✅ Complete |
-| **05_High-Fidelity UI** | **Page 3: 03_HiFi & Handoff** | `Section: [05_High-Fidelity UI]` | ✅ Complete |
-| **06_Prototype** | **Page 3: 03_HiFi & Handoff** | `Section: [06_Interactive Flows]` | ✅ Complete |
-| **07_Developer Handoff** | **Page 3: 03_HiFi & Handoff** | `Section: [07_Handoff & Redlines]` | ✅ Complete |
+| **01_Cover** | `01-04 · Foundations` | `01_Cover · Gather marketplace` | ✅ Complete |
+| **02_Research & Flows** | `01-04 · Foundations` | `02_Research & Flows · UX rationale` | ✅ Complete |
+| **03_Wireframes** | `01-04 · Foundations` | `03_Wireframes · Core consumer flow` | ✅ Complete |
+| **04_Design System** | `01-04 · Foundations` | `04_Design System · Gather UI kit` | ✅ Complete |
+| **05_High-Fidelity UI (Consumer)** | `05 · High-Fidelity UI` | `Home`, `Search`, `Product`, `Cart`, `Checkout`, `Order confirmed` | ✅ Complete |
+| **05_High-Fidelity UI (Vendor)** | `05 · High-Fidelity UI` | `Vendor · Sales overview`, `Vendor · Add product` | ✅ Complete |
+| **06_Prototype** | `06-07 · Prototype & Handoff` | `06_Prototype` interactive flow links | ✅ Complete |
+| **07_Developer Handoff** | `06-07 · Prototype & Handoff` | `07_Developer Handoff · Specifications` | ✅ Complete |
 
 ---
 
-## 📐 How to Structure This Inside Figma:
+## 📱 Screen Breakdown in Page `05 · High-Fidelity UI`
 
-### 📄 Page 1: `01_Discovery & Wireframes`
-* **Column 1:** Cover artboard (`1920 × 1080` thumbnail with title, Group 1 member names, status badge: `Mid Review Ready`).
-* **Column 2:** Research canvas: User Personas (Priya & Rajesh) + Information Architecture diagram.
-* **Column 3:** Grayscale Wireframes (Home, Category Search, PDP, Cart, 3-Screen Checkout).
+### 1. Consumer Journey (6 Screens)
+- **`Home`**: Curated maker hero, category pills, vendor spotlight, trending artisan goods.
+- **`Search · Home & living`**: Category listing with multi-attribute filtering chips.
+- **`Product · Everyday mug`**: Product gallery, maker profile card, variant options, sticky Add to Cart.
+- **`Cart`**: Multi-vendor transparent item listing with shipping estimate.
+- **`Checkout`**: 3-screen consolidated flow minimizing cognitive load.
+- **`Order confirmed`**: Delivery timeline per maker, tracking ID, and receipt confirmation.
 
-### 📄 Page 2: `02_Design System & UI Kit`
-* **Column 1:** Color tokens (Terracotta, Canvas, Ink) and Typography scale (`H1` to `Caption`).
-* **Column 2:** Button Component Matrix (Primary, Secondary, Outline, Disabled variants).
-* **Column 3:** Form Input Fields, Vendor Badges, and Product Cards using Figma Auto-Layout.
-
-### 📄 Page 3: `03_HiFi & Handoff`
-* **Column 1:** Pixel-perfect Consumer High-Fidelity UI screens (Home, PDP, 3-Screen Checkout).
-* **Column 2:** Vendor Dashboard screens (Sales Analytics & Add Product multi-step).
-* **Column 3:** Developer Handoff annotations (8pt spacing guides, touch targets, token names).
+### 2. Vendor Journey (2 Screens)
+- **`Vendor · Sales overview`**: Total shop revenue KPI, active orders, and stock indicators.
+- **`Vendor · Add product`**: 4-step mobile listing form with media uploads and variant pricing.

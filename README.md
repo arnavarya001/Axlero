@@ -1,6 +1,6 @@
 # Axlero UI/UX Design Internship - Group 1
 
-Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1)**. This repository hosts UX research documentation, user personas, wireframe layout briefs, exported design tokens (JSON/CSS), SVG icon assets, High-Fidelity UI screen renders, and tracked Figma Named Versions for **Project 1: ShopVerse (Multi-Vendor Marketplace App)**.
+Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1)**. This repository hosts UX research documentation, user personas, wireframe layout briefs, exported design tokens (JSON/CSS), SVG icon assets, High-Fidelity UI screen renders, and tracked Figma Named Versions for **Project 1: gather. (Multi-Vendor Marketplace App)**.
 
 ---
 
@@ -22,10 +22,10 @@ Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1
 - 📥 **[Work Distribution Document (PDF Download)](./Work_Distribution_Document_Group_1.pdf)** — Official submission-ready PDF for mentor review.
 - 🕒 **[Daily Commit Log (Mid Review Audit)](./daily-log.md)** — Record of **12 verified commit days** (Surpassing the 10-day Axlero Mid Review threshold).
 - 👑 **[Team Lead Governance Log](./lead-progress-log.md)** — Sprint governance, architecture reviews, and sprint logs by Arnav Arya.
-- 📐 **[Figma Free Plan 3-Page Architecture Guide](./figma-versions/Figma_3Page_Architecture_Guide.md)** — Formal mapping of Axlero's 7 required deliverables across 3 consolidated milestone canvases.
-- 👤 **[User Personas: Shopper](./research/persona-shopper.md)** & **[Vendor](./research/persona-vendor.md)** — Comprehensive customer and merchant behavioral archetypes.
+- 📐 **[Figma 3-Page Architecture Guide](./figma-versions/Figma_3Page_Architecture_Guide.md)** — Exact mapping of all 7 Axlero PRD sections inside the 3 Figma pages.
+- 👤 **[User Personas: Shopper](./research/persona-shopper.md)** & **[Vendor](./research/persona-vendor.md)** — Behavioral archetypes for *gather.* buyers and independent makers.
 - 🛒 **[3-Screen Checkout Specification](./research/checkout-flow-spec.md)** — Conversion architecture enforcing the 3-screen checkout mandate.
-- 🏢 **[Vendor Dashboard Architecture](./research/vendor-dashboard-spec.md)** — Seller portal, revenue KPIs, and 4-step Add Product form.
+- 🏢 **[Vendor Dashboard Architecture](./research/vendor-dashboard-spec.md)** — Seller portal, revenue KPIs, and 4-step Add Product workflow.
 - 🎨 **[High-Fidelity Screen Architecture](./research/high-fidelity-screens-spec.md)** — Complete token mapping and pixel-perfect screen breakdown.
 - 🧭 **[Navigation Components & Spacing](./design-tokens/navigation-components.md)** — Top bar, 5-tab bottom navigation, and 8pt grid tokens.
 - 👁️ **[WCAG 2.1 AA Accessibility Audit](./research/accessibility-audit-wcag.md)** — Certified contrast ratios and touch target compliance.
@@ -35,35 +35,35 @@ Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1
 
 ---
 
-## 🎨 Official Figma Workspaces
+## 🎨 Official Figma Workspace: "gather."
 
-In accordance with Axlero submission guidelines, all final designs will be audited from the **Master Team File**:
+All project deliverables are engineered inside the primary Figma file:
 
-| File Role | Figma File Name | Link |
-|:---|:---|:---|
-| **⭐ Master Team File** | **ShopVerse - E-commerce** | [Open ShopVerse on Figma](https://www.figma.com/design/pWC4bNgy8WBkMwjUTNR44P/ShopVerse-E-commerce?node-id=71-74&t=0plpW883l0ZShwDn-1) *(Primary Evaluation File)* |
-| **Lead Scaffold File** | **Axlero - P1 Marketplace** | [Open Axlero P1 on Figma](https://www.figma.com/design/heSsWnpBLEQYwlNRyqAW5t/Axlero---P1-Marketplace?node-id=1-3&t=DzAsycyWk2ZoRiJE-1) |
-| **Lead Scratch File** | **ShopVerse Explorations** | [Open Explorations on Figma](https://www.figma.com/design/mzxRxVZF9eTfuu8vupSgu7/Untitled?node-id=2-7&t=Lylrka5IOSHXPiPW-1) |
+| Project | Figma File Link | Access Level | Structure |
+|:---|:---|:---:|:---|
+| **gather. (Marketplace App)** | [Open gather. on Figma](https://www.figma.com/design/mzxRxVZF9eTfuu8vupSgu7/Untitled?node-id=2-7&t=B5VtsuspRAc58pje-1) | Can View / Edit | **3 Consolidated Milestones (All 7 Axlero Sections Included)** |
 
 ---
 
-## 📐 Figma Starter Tier: 3-Page Architecture Mapping
+## 📐 Exact 3-Page Canvas Architecture (As Built in Figma)
 
-Due to the Figma Free plan limitation (max 3 pages), all 7 Axlero deliverables are consolidated into 3 milestone canvases:
+The Figma file is organized into 3 high-impact pages, containing every mandated Axlero PRD section:
 
 ```
-ShopVerse Master Figma File
-├── Page 1: 01_Discovery & Wireframes
-│   ├── Section: [01_Cover]
-│   ├── Section: [02_Research & Flows]
-│   └── Section: [03_Wireframes]
-├── Page 2: 02_Design System & UI Kit
-│   ├── Section: [04_Design System]
-│   └── Section: [Ready Components & Variants]
-└── Page 3: 03_HiFi & Handoff
-    ├── Section: [05_High-Fidelity UI]
-    ├── Section: [06_Interactive Flows]
-    └── Section: [07_Developer Handoff]
+gather. Marketplace Figma Workspace
+├── Page 1: 01-04 · Foundations
+│   ├── 01_Cover · Gather marketplace (Thumbnail, 18 vendors, 42 products, 3-step checkout)
+│   ├── 02_Research & Flows · UX rationale (Shopper & Vendor realities, IA tree)
+│   ├── 03_Wireframes · Core consumer flow (Home, Category search, PDP, Cart)
+│   └── 04_Design System · Gather UI kit (Display/Headings, Terracotta & Ink palettes, Cards)
+│
+├── Page 2: 05 · High-Fidelity UI
+│   ├── Consumer Flow: Home ➔ Search (Home & living) ➔ Product (Everyday mug) ➔ Cart ➔ Checkout ➔ Order confirmed
+│   └── Vendor Flow: Vendor · Sales overview ➔ Vendor · Add product
+│
+└── Page 3: 06-07 · Prototype & Handoff
+    ├── 06_Prototype (Connected Smart Animate interactive flows for mobile & vendor)
+    └── 07_Developer Handoff · Specifications (8pt grid, redlines, component parameters)
 ```
 
 ---
@@ -72,5 +72,5 @@ ShopVerse Master Figma File
 
 - **Review Period:** 23rd to 30th November 2026
 - **Status:** **100% Prepared & Compliant**
-- **Commit Compliance:** **12 active days** (Threshold: $\ge 10$ days)
-- **Current Figma Milestone:** `[Week 3] Hi-Fi Screens`
+- **Commit Compliance:** **12 active commit days** (Axlero threshold: $\ge 10$ days)
+- **Current Milestone:** `[Week 3] Hi-Fi Screens` (with Week 4 Prototype & Handoff already drafted)
