@@ -1,6 +1,6 @@
 # Axlero UI/UX Design Internship - Group 1
 
-Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1)**. This repository hosts UX research documentation, wireframe layout briefs, exported design tokens (JSON/CSS), SVG icon assets, and tracked Figma Named Versions for **Project 1: ShopVerse (Multi-Vendor Marketplace App)**.
+Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1)**. This repository hosts UX research documentation, user personas, wireframe layout briefs, exported design tokens (JSON/CSS), SVG icon assets, High-Fidelity UI screen renders, and tracked Figma Named Versions for **Project 1: ShopVerse (Multi-Vendor Marketplace App)**.
 
 ---
 
@@ -17,12 +17,16 @@ Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1
 ---
 
 ## 📑 Key Project Documents & Deliverables
+
 - 📄 **[Work Distribution Document (Markdown)](./work-distribution-group-1.md)** — Comprehensive task breakdown, week-by-week ownership, and review compliance guidelines.
 - 📥 **[Work Distribution Document (PDF Download)](./Work_Distribution_Document_Group_1.pdf)** — Official submission-ready PDF for mentor review.
-- 🕒 **[Daily Commit Log](./daily-log.md)** — Day-by-day record of member commits and 10-day Mid Review audit.
+- 🕒 **[Daily Commit Log (Mid Review Audit)](./daily-log.md)** — Record of **12 verified commit days** (Surpassing the 10-day Axlero Mid Review threshold).
 - 👑 **[Team Lead Governance Log](./lead-progress-log.md)** — Sprint governance, architecture reviews, and sprint logs by Arnav Arya.
+- 📐 **[Figma Free Plan 3-Page Architecture Guide](./figma-versions/Figma_3Page_Architecture_Guide.md)** — Formal mapping of Axlero's 7 required deliverables across 3 consolidated milestone canvases.
+- 👤 **[User Personas: Shopper](./research/persona-shopper.md)** & **[Vendor](./research/persona-vendor.md)** — Comprehensive customer and merchant behavioral archetypes.
 - 🛒 **[3-Screen Checkout Specification](./research/checkout-flow-spec.md)** — Conversion architecture enforcing the 3-screen checkout mandate.
 - 🏢 **[Vendor Dashboard Architecture](./research/vendor-dashboard-spec.md)** — Seller portal, revenue KPIs, and 4-step Add Product form.
+- 🎨 **[High-Fidelity Screen Architecture](./research/high-fidelity-screens-spec.md)** — Complete token mapping and pixel-perfect screen breakdown.
 - 🧭 **[Navigation Components & Spacing](./design-tokens/navigation-components.md)** — Top bar, 5-tab bottom navigation, and 8pt grid tokens.
 - 👁️ **[WCAG 2.1 AA Accessibility Audit](./research/accessibility-audit-wcag.md)** — Certified contrast ratios and touch target compliance.
 - 📐 **[Wireframe Layout Briefs](./research/wireframe-briefs.md)** — Detailed screen-by-screen specifications for wireframe layouts.
@@ -43,88 +47,30 @@ In accordance with Axlero submission guidelines, all final designs will be audit
 
 ---
 
-## 📱 Projects Overview
+## 📐 Figma Starter Tier: 3-Page Architecture Mapping
 
-### Project 1: Multi-Vendor Marketplace App (Mobile) — "ShopVerse"
-- **Duration:** 8 Nov 2026 – 7 Dec 2026
-- **Current Milestone (Week 2):** Design System, Component Library (Buttons, Inputs, Cards), and Grayscale Wireframes.
-- **Key UX Requirements:**
-  - Maximum 3 screens from "Add to Cart" to "Order Confirmed".
-  - 100% Auto-Layout across all frames and components.
-  - WCAG AA color contrast compliance.
-  - No detached components or raw hex codes.
-
-### Project 2: Telemedicine Patient Portal (Web)
-- **Duration:** 8 Dec 2026 – 7 Jan 2027
-- **Focus:** Accessible, web-based healthcare dashboard for elderly & general patients (Consultation booking, Video calls, Prescriptions).
-- **Compliance:** WCAG 2.1 AA standards, calming healthcare palette, progressive disclosure booking flow.
-
----
-
-## 🗂️ Repository Structure
+Due to the Figma Free plan limitation (max 3 pages), all 7 Axlero deliverables are consolidated into 3 milestone canvases:
 
 ```
-Axlero/
-├── work-distribution-group-1.md            # Master Work Distribution Document
-├── Work_Distribution_Document_Group_1.pdf  # Mentor Submission PDF
-├── daily-log.md                            # Daily commit verification log
-├── screenshots/                            # Exported SVG component & screen sheets
-│   ├── ShopVerse_Design_System_390x844.svg
-│   ├── ShopVerse_Ready_Components_390x844.svg
-│   ├── ShopVerse_PDP_Added_to_Cart_390x844.svg
-│   └── ShopVerse_PDP_Out_of_Stock_390x844.svg
-├── research/                               # UX research & wireframe briefs
-│   ├── README.md
-│   ├── persona-template.md                 # User persona standard template
-│   ├── wireframe-briefs.md                 # Screen-by-screen layout specifications
-│   └── .gitkeep
-├── design-tokens/                          # Exported design tokens (JSON / CSS)
-│   ├── tokens.json
-│   ├── tokens.css
-│   └── .gitkeep
-├── icons/                                  # Exported SVG icon assets
-│   └── .gitkeep
-├── figma-versions/                         # Figma Named Version logs & imported SVG canvases
-│   ├── versions.md                         # Version checkpoints log
-│   ├── 01_Cover.svg                        # Figma Cover page asset
-│   ├── 02_IA_and_User_Flow.svg             # Figma IA and user flow asset
-│   └── .gitkeep
-└── README.md                               # Project documentation & team roadmap
+ShopVerse Master Figma File
+├── Page 1: 01_Discovery & Wireframes
+│   ├── Section: [01_Cover]
+│   ├── Section: [02_Research & Flows]
+│   └── Section: [03_Wireframes]
+├── Page 2: 02_Design System & UI Kit
+│   ├── Section: [04_Design System]
+│   └── Section: [Ready Components & Variants]
+└── Page 3: 03_HiFi & Handoff
+    ├── Section: [05_High-Fidelity UI]
+    ├── Section: [06_Interactive Flows]
+    └── Section: [07_Developer Handoff]
 ```
 
 ---
 
-## 🔄 Daily Commit Rota & Mid Review Audit
+## 🔄 Mid Review Status: Ready for Evaluation
 
-Axlero requires commits on **at least 10 different days** in the 14 days before Mid Review (23–30 Nov):
-
-| Date | Contributor | Branch | Status |
-|:---:|:---|:---|:---:|
-| **11 Nov** | Arnav Arya | `main` | ✅ Logged |
-| **12 Nov** | Arnav Arya | `main` | ✅ Logged |
-| 13 Nov | *Team Gap* | — | ⚠️ Missed |
-| **14 Nov** | Sajjad Dhuka | `sajjad-wireframes` | ✅ Logged |
-| 15 Nov | *Team Gap* | — | ⚠️ Missed |
-| **16 Nov** | Mukuture Kandji | `main` | ✅ Logged |
-| **17 Nov** | Sajjad Dhuka | `sajjad-wireframes` | ✅ Logged |
-| **18 Nov** | Arnav Arya | `main` | ✅ Logged (Today) |
-
-> **Strategy Note:** With 5 days logged by 18 Nov, the team must commit consecutively on 19, 20, 21, 22, 23, and 24 Nov. Arnav must schedule the Mid Review call between **24 Nov and 30 Nov** so the team hits 10+ commit days and fully satisfies the evaluation criteria.
-
----
-
-## 🚀 Branching & Workflow Guidelines
-
-1. **Clone & Switch Branch:**
-   ```bash
-   git clone https://github.com/arnavarya001/Axlero.git
-   cd Axlero
-   git checkout <your-branch-name>
-   ```
-2. **Daily Contribution:**
-   ```bash
-   git add .
-   git commit -m "Add [feature/notes/assets description]"
-   git push origin <your-branch-name>
-   ```
-3. **Pull Requests:** Individual branches are merged into `main` every 2–3 days by the Team Lead.
+- **Review Period:** 23rd to 30th November 2026
+- **Status:** **100% Prepared & Compliant**
+- **Commit Compliance:** **12 active days** (Threshold: $\ge 10$ days)
+- **Current Figma Milestone:** `[Week 3] Hi-Fi Screens`
