@@ -22,6 +22,8 @@ Welcome to the official repository for **Axlero UI/UX Design Internship (Group 1
 - 📥 **[Work Distribution Document (PDF Download)](./Work_Distribution_Document_Group_1.pdf)** — Official submission-ready PDF for mentor review.
 - 🕒 **[Daily Commit Log (Mid Review Audit)](./daily-log.md)** — Record of **12 verified commit days** (Surpassing the 10-day Axlero Mid Review threshold).
 - 👑 **[Team Lead Governance Log](./lead-progress-log.md)** — Sprint governance, architecture reviews, and sprint logs by Arnav Arya.
+- 🎓 **[Hiring Manager (HM) Defense Presentation Guide](./research/hm-defense-presentation-guide.md)** — Structured defense covering UX rationale, system architecture, and version recovery.
+- ⚡ **[Interactive Prototype & Motion Specification](./research/prototype-interactions-spec.md)** — Transition curves, triggers, and Smart Animate parameters.
 - 📐 **[Figma 3-Page Architecture Guide](./figma-versions/Figma_3Page_Architecture_Guide.md)** — Exact mapping of all 7 Axlero PRD sections inside the 3 Figma pages.
 - 👤 **[User Personas: Shopper](./research/persona-shopper.md)** & **[Vendor](./research/persona-vendor.md)** — Behavioral archetypes for *gather.* buyers and independent makers.
 - 🛒 **[3-Screen Checkout Specification](./research/checkout-flow-spec.md)** — Conversion architecture enforcing the 3-screen checkout mandate.

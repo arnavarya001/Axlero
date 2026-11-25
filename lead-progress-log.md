@@ -15,7 +15,7 @@
 ---
 
 ## Week 2 Sprint: Design System, Tokens & UI Kit (16 – 22 Nov 2026)
-- **Token Engineering:** Formalized ShopVerse color variables (Terracotta `#A64028`, Canvas `#F7F4EF`, Ink `#222820`) and 8pt spacing grid; exported [tokens.json](design-tokens/tokens.json) and [tokens.css](design-tokens/tokens.css).
+- **Token Engineering:** Formalized Gather color variables (Terracotta `#A64028`, Canvas `#F7F4EF`, Ink `#222820`) and 8pt spacing grid; exported [tokens.json](design-tokens/tokens.json) and [tokens.css](design-tokens/tokens.css).
 - **SVG Iconography:** Added scalable SVG icon assets in `icons/` for core navigation and interaction states.
 - **Branch Reviews & Merges:**
   - Reviewed and merged Sajjad's contributions (`sajjad-wireframes` ➔ `main`), verifying grayscale wireframes and ready button component sheets.
@@ -34,6 +34,8 @@
   - `screenshots/ShopVerse_HiFi_Checkout_390x844.svg`
 - **Figma 3-Page Free Plan Architecture:** Solved the Figma Free Plan 3-page limitation by structuring [Figma_3Page_Architecture_Guide.md](figma-versions/Figma_3Page_Architecture_Guide.md) to house all 7 Axlero deliverables cleanly within 3 milestone canvases.
 - **Milestone Checkpoint:** Saved Figma Named Version `[Week 3] Hi-Fi Screens`.
-- **Mid Review Compliance Audit (24 Nov):**
+- **Interactive Motion Engineering (25 Nov):** Authored [prototype-interactions-spec.md](research/prototype-interactions-spec.md) defining Smart Animate transition parameters.
+- **HM Design Defense Preparation (25 Nov):** Authored [hm-defense-presentation-guide.md](research/hm-defense-presentation-guide.md) addressing the 3 mandatory evaluation pillars (UX rationale, system architecture, workflow maturity).
+- **Mid Review Compliance Audit:**
   - **Commit Frequency:** Verified **12 active commit days** in the 14-day window preceding Mid Review (exceeding the 10-day requirement).
   - **Deliverable Completeness:** Wireframes, design tokens, icons, high-fidelity specs, and accessibility audits are 100% indexed in GitHub and linked to Figma.
