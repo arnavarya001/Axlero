@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" fill="none">
+  <!-- Background Canvas -->
+  <rect width="390" height="844" rx="40" fill="#F7F4EF"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="390" height="44" fill="#F7F4EF"/>
+  <text x="32" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#222820">9:41</text>
+  <circle cx="340" cy="26" r="4" fill="#222820"/>
+  <rect x="350" y="21" width="18" height="10" rx="3" stroke="#222820" stroke-width="1.5"/>
+
+  <!-- Vendor Header / Store Profile -->
+  <rect x="24" y="60" width="48" height="48" rx="24" fill="#A64028"/>
+  <text x="39" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">P</text>
+  <text x="84" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#222820">Patel Leather Crafts</text>
+  <rect x="84" y="86" width="94" height="18" rx="4" fill="#E8F5E9"/>
+  <text x="92" y="99" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" fill="#2E7D32">✓ Verified Artisan</text>
+  <rect x="330" y="66" width="36" height="36" rx="18" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <circle cx="348" cy="84" r="6" stroke="#222820" stroke-width="1.5" fill="none"/>
+
+  <!-- Page Title & Time Filter -->
+  <text x="24" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="800" fill="#222820">Your shop, at a glance.</text>
+  <rect x="264" y="122" width="102" height="28" rx="8" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="276" y="141" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#686E64">This Month ▼</text>
+
+  <!-- Metric KPI Cards (2x2 Grid) -->
+  <!-- Card 1: Revenue -->
+  <rect x="24" y="164" width="162" height="96" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="36" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">TOTAL REVENUE</text>
+  <text x="36" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" fill="#222820">$3,420</text>
+  <text x="36" y="238" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#2E7D32">↑ 18.4% vs last mo</text>
+
+  <!-- Card 2: Active Orders -->
+  <rect x="204" y="164" width="162" height="96" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="216" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">PENDING ORDERS</text>
+  <text x="216" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" fill="#A64028">18</text>
+  <text x="216" y="238" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">4 dispatch today</text>
+
+  <!-- Card 3: Rating -->
+  <rect x="24" y="272" width="162" height="80" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="36" y="294" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">STORE RATING</text>
+  <text x="36" y="322" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#222820">4.9 ★</text>
+  <text x="82" y="322" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#686E64">(128 reviews)</text>
+
+  <!-- Card 4: Low Stock Alert -->
+  <rect x="204" y="272" width="162" height="80" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="216" y="294" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">LOW STOCK ALERT</text>
+  <text x="216" y="322" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#C2410C">2 Items</text>
+  <text x="272" y="322" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#686E64">under 5 units</text>
+
+  <!-- Quick Action CTA: Add Product -->
+  <rect x="24" y="368" width="342" height="48" rx="12" fill="#A64028"/>
+  <text x="136" y="398" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">+ Add New Product</text>
+
+  <!-- Recent Orders List Section -->
+  <text x="24" y="448" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#222820">Recent Customer Orders</text>
+  
+  <!-- Order Item 1 -->
+  <rect x="24" y="462" width="342" height="76" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="40" y="488" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#222820">#ORD-9842 · Priya S.</text>
+  <rect x="278" y="474" width="72" height="20" rx="4" fill="#FFF3E0"/>
+  <text x="290" y="488" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" fill="#E65100">● Pending</text>
+  <text x="40" y="512" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#686E64">1x Handstitched Leather Journal · $48.50</text>
+  <text x="40" y="528" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#686E64">Destination: Indiranagar, Bengaluru</text>
+
+  <!-- Order Item 2 -->
+  <rect x="24" y="548" width="342" height="76" rx="12" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="40" y="574" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#222820">#ORD-9839 · Rohan M.</text>
+  <rect x="278" y="560" width="72" height="20" rx="4" fill="#E8F5E9"/>
+  <text x="294" y="574" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" fill="#2E7D32">✓ Packed</text>
+  <text x="40" y="598" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#686E64">2x Slim Minimalist Cardholder · $64.00</text>
+  <text x="40" y="614" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#686E64">Destination: Bandra West, Mumbai</text>
+
+  <!-- Bottom Navigation Bar for Vendor Portal -->
+  <rect x="0" y="764" width="390" height="80" fill="#FFFFFF" stroke="#E5E0D8"/>
+  <text x="40" y="805" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#A64028">Overview</text>
+  <circle cx="62" cy="815" r="2" fill="#A64028"/>
+  <text x="125" y="805" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">Orders (18)</text>
+  <text x="215" y="805" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">Products</text>
+  <text x="310" y="805" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#686E64">Payouts</text>
+</svg>
