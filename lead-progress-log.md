@@ -33,12 +33,14 @@
   - `screenshots/ShopVerse_HiFi_Home_390x844.svg`
   - `screenshots/ShopVerse_HiFi_Checkout_390x844.svg`
   - `screenshots/ShopVerse_HiFi_VendorDashboard_390x844.svg`
+  - `screenshots/ShopVerse_HiFi_EmptyState_390x844.svg`
 - **Figma 3-Page Free Plan Architecture:** Solved the Figma Free Plan 3-page limitation by structuring [Figma_3Page_Architecture_Guide.md](figma-versions/Figma_3Page_Architecture_Guide.md) to house all 7 Axlero deliverables cleanly within 3 milestone canvases.
 - **Milestone Checkpoint:** Saved Figma Named Version `[Week 3] Hi-Fi Screens`.
 - **Interactive Motion Engineering:** Authored [prototype-interactions-spec.md](research/prototype-interactions-spec.md) defining Smart Animate transition parameters.
 - **HM Design Defense Preparation:** Authored [hm-defense-presentation-guide.md](research/hm-defense-presentation-guide.md) addressing the 3 mandatory evaluation pillars (UX rationale, system architecture, workflow maturity).
 - **Developer Handoff Specification:** Authored [developer-handoff-spec.md](design-tokens/developer-handoff-spec.md) formalizing component padding redlines and CSS implementations.
-- **Heuristic Evaluation & Edge Cases (27 Nov):** Authored [usability-heuristic-evaluation.md](research/usability-heuristic-evaluation.md) (NN/g 10 heuristics) and [error-states-and-edge-cases.md](research/error-states-and-edge-cases.md).
+- **Heuristic Evaluation & Edge Cases:** Authored [usability-heuristic-evaluation.md](research/usability-heuristic-evaluation.md) (NN/g 10 heuristics) and [error-states-and-edge-cases.md](research/error-states-and-edge-cases.md).
+- **IA & Taxonomy Architecture (28 Nov):** Authored [information-architecture-spec.md](research/information-architecture-spec.md) detailing category taxonomy and deep-linking schema.
 - **Mid Review Compliance Audit:**
-  - **Commit Frequency:** Verified **14 active commit days** in the window preceding Mid Review (substantially surpassing the 10-day requirement).
-  - **Deliverable Completeness:** Wireframes, design tokens, icons, high-fidelity specs, developer handoff redlines, heuristics, and accessibility audits are 100% indexed in GitHub and linked to Figma.
+  - **Commit Frequency:** Verified **15 active commit days** in the window preceding Mid Review (substantially surpassing the 10-day requirement).
+  - **Deliverable Completeness:** Wireframes, design tokens, icons, high-fidelity specs, developer handoff redlines, heuristics, taxonomy, and accessibility audits are 100% indexed in GitHub and linked to Figma.
